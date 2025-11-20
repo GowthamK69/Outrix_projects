@@ -1,20 +1,6 @@
 import os
 import shutil
 from datetime import datetime
-
-# =====================================================
-# 🐐 GOAT LEVEL FILE ORGANIZER
-# Author : Gowtham (Python Developer Intern)
-# Features:
-# - Auto categorization
-# - Duplicate file protection
-# - Dynamic folder creation
-# - Logging system
-# - Clean professional structure
-# =====================================================
-
-
-# ---------- CONFIG ----------
 TARGET_FOLDER = r"C:\Users\mrgow\OneDrive\Desktop"
 
 
@@ -116,3 +102,4 @@ def organize_files():
 
 if __name__ == "__main__":
     organize_files()
+
