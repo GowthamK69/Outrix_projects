@@ -1,0 +1,83 @@
+[
+  {
+    "question": "Which data structure uses FIFO order?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue",
+    "tags": [
+      "cs",
+      "ds"
+    ]
+  },
+  {
+    "question": "Which language is primarily used for web front-end?",
+    "options": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Go"
+    ],
+    "answer": "JavaScript",
+    "tags": [
+      "web"
+    ]
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "Hyperlink Transfer Protocol",
+      "HyperText Transmission Process",
+      "High Transfer Text Protocol"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "tags": [
+      "web",
+      "network"
+    ]
+  },
+  {
+    "question": "Which sorting algorithm has average O(n log n) time?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Selection Sort"
+    ],
+    "answer": "Merge Sort",
+    "tags": [
+      "algorithms"
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Mars",
+    "tags": [
+      "general"
+    ]
+  },
+  {
+    "question": "What is the binary representation of decimal 5?",
+    "options": [
+      "101",
+      "111",
+      "010",
+      "100"
+    ],
+    "answer": "101",
+    "tags": [
+      "math",
+      "cs"
+    ]
+  }
+]
